@@ -3,3 +3,4 @@ https://lame.sourceforge.io/ - official lame website
 https://suckless.org/ - i use their wm and menu  
 https://bitreich.org/ - i use adblocker wdym stupid website  
 https://terack.neocities.org/ - my website currently zoomer trash design  
+https://www.rarewares.org/rrw/programs.php - vintage stuff  
